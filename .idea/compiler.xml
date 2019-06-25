@@ -9,5 +9,8 @@
         <module name="refactor" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="refactor" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
